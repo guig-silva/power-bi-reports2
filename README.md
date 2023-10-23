@@ -1,2 +1,2 @@
 # power-bi-reports2
-Segundo Desafio de Projeto de Power BI
+Para este segundo desafio proposto para a trilha de Ciência de Dados, com o tema Power BI, foi solicitado o upload de uma base de dados na nuvem Azure utilizando o banco de dados MySQL. Devido à algum problema que não consegui resolver em tempo hábil, fui impossibilitado de me registrar para utilizar os serviços da nuvem Azure. Isso aconteceu com todos os e-mails disponíveis, incluindo meu e-mail estudantil que utilizei durante a execução do primeiro Desafio de Projeto em Power BI. Os prints se encontram disponíveis no repositório, junto com o arquivo do primeiro relatório para indicar que estou conseguindo utilizar o Power BI, porém não os serviços da nuvem Azure.
